@@ -1,0 +1,12 @@
+Como convertir archivo.c en ejecutable....
+
+nahuelarn@raspberrypi:~/facu/tp1/P1-Fuentes/Fuentes $ gcc fib.c -o funcion
+
+
+Como ejecutar un archivo c....
+./archivo valorParametro1
+
+
+
+//cosas
+│nahuelarn@raspberrypi:~/facu/tp1/P1-Fuentes/Fuentes $ gcc quadatric2.c -o quadatric2 -lm
