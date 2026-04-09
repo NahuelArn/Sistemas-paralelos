@@ -282,7 +282,7 @@ char nombre[] = "Nahuel";
 
 ---
 
-# 🔥 Resumen rápido tipo machete
+# //
 
 * `if / else / switch` → decisiones
 * `for / while / do while` → repetición
